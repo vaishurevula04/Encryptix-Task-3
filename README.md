@@ -1,0 +1,1 @@
+Developed an ATM INTERFACE in Java. It supports withdrawing, depositing, and checking balances. Methods validate user input, connect to a bank account, and display appropriate messages based on transactions.
